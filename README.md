@@ -1,5 +1,4 @@
-## Use of various deep learning models to classify flowers. 
-
+## Implementation of various deep learning models from scratch
 Models are implemented from scratch in PyTorch using only tensor operations.
 
 Models Implemented : 
