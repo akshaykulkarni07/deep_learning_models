@@ -11,3 +11,5 @@ Optimization Algorithms Implemented :
 1. Batch Gradient Descent
 2. Mini-batch Gradient Descent
 3. Stochastic Gradient Descent (put `batch_size` = 1 in mini-batch to get this)
+4. Batch Gradient Descent with Momentum
+5. Batch RMSProp
