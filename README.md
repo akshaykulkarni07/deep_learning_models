@@ -13,3 +13,6 @@ Optimization Algorithms Implemented :
 3. Stochastic Gradient Descent (put `batch_size` = 1 in mini-batch to get this)
 4. Batch Gradient Descent with Momentum
 5. Batch RMSProp
+6. Batch Adam
+
+Training and Validation results are added in the Results folder.
